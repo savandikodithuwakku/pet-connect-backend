@@ -86,4 +86,4 @@ The frontend repository is available at [PetConnect Frontend](https://github.com
 
 ## Repository
 
-[PetConnect Backend on GitHub](https://github.com/Pet-connect-website/pet-connect-backend/commits/master/)
+[PetConnect Backend on GitHub](https://github.com/Pet-connect-website/pet-connect-backend)
